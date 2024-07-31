@@ -1,0 +1,9 @@
+[{
+    "name" : "RequestLoginEmail",
+    "typeId": 0,
+    "value": "",
+    "paramSql" : "",
+    "description" : "Provide email address which can be used in the module's \"Access Requests\" trackor mail config. The \"Don't have an account\" hyperlink on the login page will be updated automatically.\n\nLeave empty to skip label update.\n\nSee: https://onevizion.atlassian.net/wiki/spaces/USER/pages/276791342/Logging+into+the+Vizion+Platform#Login-Administration\nfor more details.",
+    "isReadOnly" : false,
+    "isHidden" : true
+}]
